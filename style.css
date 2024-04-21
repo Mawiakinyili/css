@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(22, 22, 22); /*black */
+    
+  }
+  p{
+    background-color:rgb(13, 13, 49);
+  margin-top: 20px;
+  margin-right: 1cm;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  color: blanchedalmond;
+  yu
+}
+  header{
+    color: blanchedalmond;
+  }
+  h2{
+    color: blanchedalmond;
+  }
+  h3{
+    color: blanchedalmond;
+    padding-left:100px;
+  }
+  p2{
+    color: blanchedalmond;
+   padding-left: 100px;
+  }
+  h4{
+    padding-left: 50px;
+    margin-left: 50px;
+  }
